@@ -1,4 +1,4 @@
-#ET0735 - Lab Test Mock
+# ET0735 - Lab Test Mock
 
 To find out if the word is a palindrome
 
@@ -10,4 +10,4 @@ print(is_palindrome("radar"))   # True
 print(is_palindrome("Hello"))   # False
 ```
 
-![Palindrome Illustration](images/palindrome.jpeg)
+![Palindrome Illustration](https://github.com/KesterKwan/Labmock/blob/master/Labmock/palindrome.jpeg)
